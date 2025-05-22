@@ -16,9 +16,13 @@ This project takes a specified NACA airfoil profile and:
 ## 📁 Project Structure
 
 ├── main.py # Main script to run the mesh generation process
+
 ├── visualizer.py # Contains functions to visualize grids and plots
+
 ├── mesh_generator.py # Grid initialization and Poisson solver with SOR
+
 ├── coefficient_generator.py # Generates source terms and control functions
+
 ├── airfoil_boundary_generator.py# Creates the NACA airfoil shape
 
 ---
