@@ -2,7 +2,7 @@
 
 A modular Python tool to generate and smooth computational grids around airfoils using source-controlled elliptic mesh generation and Successive Over-Relaxation (SOR) techniques.
 
-## ✈️ Overview
+## Overview
 
 This project takes a specified NACA airfoil profile and:
 
@@ -13,7 +13,7 @@ This project takes a specified NACA airfoil profile and:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ├── main.py # Main script to run the mesh generation process
 
@@ -38,7 +38,7 @@ This project takes a specified NACA airfoil profile and:
 - `x_dis`: X-offset of the airfoil in the domain.
 - `w`: Relaxation factor for the SOR method.
 
-### ▶️ Run the code
+### Run the code
 
 ```bash
 python main.py
