@@ -27,9 +27,9 @@ This project takes a specified NACA airfoil profile and:
 
 ---
 
-## ⚙️ Usage
+## Usage
 
-### 🔧 Parameters in `main.py`
+### Parameters in `main.py`
 - `Nx`: Number of points along the airfoil chord.
 - `Ny`: Number of mesh points in the normal direction.
 - `naca_number`: 4-digit NACA airfoil to generate.
